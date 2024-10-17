@@ -1,0 +1,14 @@
+
+public class Human {
+	private String name;
+	private double health = 100;
+	private double stamina = 100;
+	private int level = 5;
+	
+	
+	public Human(String name) {
+		this.name = name;
+	}
+	
+	
+}

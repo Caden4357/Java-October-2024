@@ -1,0 +1,16 @@
+
+public class Duck {
+//	attributes or member variables 
+	private String name;
+	private String color;
+	private int energyLevel = 100;
+	private boolean isHelpful = true;
+	
+//	constructor 
+	public Duck(String name, String color, int energyLevel, boolean isHelpful) {
+		this.name = name;
+		this.color = color;
+		this.energyLevel = energyLevel;
+		this.isHelpful = isHelpful;
+	}
+}

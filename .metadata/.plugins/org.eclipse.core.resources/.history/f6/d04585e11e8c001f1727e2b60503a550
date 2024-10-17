@@ -1,0 +1,12 @@
+
+public class TestGame {
+	public static void main(String[] args) {
+		Human bob = new Human("Bob");
+		Warrior joe = new Warrior("Joe", 10);
+		
+		bob.defend();
+		joe.defend();
+		System.out.println(bob.getStamina());
+		System.out.println(joe.getStamina());
+ 	}
+}

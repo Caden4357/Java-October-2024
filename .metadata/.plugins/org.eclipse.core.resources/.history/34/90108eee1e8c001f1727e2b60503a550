@@ -1,0 +1,20 @@
+
+public class Warrior extends Human {
+	private Weapon weapon;
+	
+	public Warrior(String name, Weapon weapon) {
+		super(name);
+		this.weapon = weapon;
+	}
+
+	public Warrior(String name, int level) {
+		super(name, level);
+	}
+	
+	
+	public void defend() {
+		this.setStamina(this.getStamina() - 5);
+	}
+	
+
+}

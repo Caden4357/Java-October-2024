@@ -1,0 +1,7 @@
+
+public class Human {
+	private String name;
+	private double health;
+	private double stamina;
+	private int level;
+}
