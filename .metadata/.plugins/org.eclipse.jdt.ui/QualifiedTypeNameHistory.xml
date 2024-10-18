@@ -4,8 +4,20 @@
     <fullyQualifiedTypeName name="Duck"/>
     <fullyQualifiedTypeName name="java.lang.invoke.StringConcatFactory"/>
     <fullyQualifiedTypeName name="Order"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="Item"/>
+    <fullyQualifiedTypeName name="Warrior"/>
+    <fullyQualifiedTypeName name="Weapon"/>
+    <fullyQualifiedTypeName name="Sword"/>
+    <fullyQualifiedTypeName name="Human"/>
+    <fullyQualifiedTypeName name="Calculator"/>
+    <fullyQualifiedTypeName name="User"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="Employee"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="EmployeeManagement"/>
+    <fullyQualifiedTypeName name="ManagerManagement"/>
+    <fullyQualifiedTypeName name="Manager"/>
+    <fullyQualifiedTypeName name="javax.swing.tree.ExpandVetoException"/>
     <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
