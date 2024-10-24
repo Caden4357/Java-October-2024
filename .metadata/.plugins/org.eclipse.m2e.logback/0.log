@@ -423,3 +423,362 @@
 2024-10-22 17:54:00,405 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-10-22 17:54:00,410 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-10-22 17:54:00,412 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day1\Lecture\HelloSpring\src\test\resources
+2024-10-23 16:00:41,655 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-23 16:14:39,882 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.ninjagold:NinjaGold:0.0.1-SNAPSHOT @ C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\pom.xml.
+2024-10-23 16:14:41,864 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NinjaGold/src/main/java
+2024-10-23 16:14:41,865 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /NinjaGold/src/main/resources
+2024-10-23 16:14:41,875 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /NinjaGold/src/main/resources
+2024-10-23 16:14:41,880 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NinjaGold/src/test/java
+2024-10-23 16:14:41,881 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /NinjaGold/src/test/resources
+2024-10-23 16:14:42,570 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2024-10-23 16:14:42,573 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-23 16:14:42,780 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.ninjagold:NinjaGold:0.0.1-SNAPSHOT @ C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\pom.xml.
+2024-10-23 16:14:43,117 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NinjaGold/src/main/java
+2024-10-23 16:14:43,118 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /NinjaGold/src/main/resources
+2024-10-23 16:14:43,119 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /NinjaGold/src/main/resources
+2024-10-23 16:14:43,120 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NinjaGold/src/test/java
+2024-10-23 16:14:43,121 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /NinjaGold/src/test/resources
+2024-10-23 16:14:43,418 [Worker-6: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for NinjaGold
+2024-10-23 16:14:43,430 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-10-23 16:14:43,844 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:14:43,863 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:14:43,871 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:14:43,872 [Worker-10: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of NinjaGold
+2024-10-23 16:14:43,873 [Worker-10: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for NinjaGold
+2024-10-23 16:16:17,943 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.ninjagold:NinjaGold:0.0.1-SNAPSHOT @ C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\pom.xml.
+2024-10-23 16:16:18,485 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:16:18,486 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:16:18,496 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:16:18,497 [Worker-21: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of NinjaGold
+2024-10-23 16:16:18,497 [Worker-21: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for NinjaGold
+2024-10-23 16:16:20,379 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.ninjagold:NinjaGold:0.0.1-SNAPSHOT @ C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\pom.xml.
+2024-10-23 16:16:20,594 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:16:20,603 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:16:20,606 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:16:34,903 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:16:34,921 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:16:34,924 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:17:00,598 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:17:00,599 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:17:00,603 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:17:49,762 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:17:49,763 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:17:49,765 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:18:58,665 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:18:58,671 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:18:58,674 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:23:13,216 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:23:13,222 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:23:13,224 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:25:14,695 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:25:14,696 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:25:14,698 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:26:03,867 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:26:03,868 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:26:03,872 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:26:33,340 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:26:33,340 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:26:33,342 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:27:08,759 [Worker-28: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:27:08,764 [Worker-28: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:27:08,770 [Worker-28: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:27:16,762 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:27:16,763 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:27:16,765 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:27:53,035 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:27:53,037 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:27:53,040 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:28:12,124 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.ninjagold:NinjaGold:0.0.1-SNAPSHOT @ C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\pom.xml.
+2024-10-23 16:28:12,741 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:28:12,742 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:28:12,746 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:28:12,747 [Worker-26: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of NinjaGold
+2024-10-23 16:28:12,747 [Worker-26: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for NinjaGold
+2024-10-23 16:28:13,978 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:28:13,987 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:28:13,993 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:28:42,103 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:28:42,105 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:28:42,108 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:30:25,854 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:30:25,855 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:30:25,857 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:30:46,705 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:30:46,706 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:30:46,709 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:31:08,263 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:31:08,264 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:31:08,267 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:35:35,404 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:35:35,405 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:35:35,407 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:35:46,701 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:35:46,702 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:35:46,705 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:36:48,807 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:36:48,808 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:36:48,811 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:37:04,646 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:37:04,646 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:37:04,648 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:37:11,340 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:37:11,341 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:37:11,343 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:37:13,474 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:37:13,474 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:37:13,476 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:37:38,588 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:37:38,588 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:37:38,591 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:38:42,494 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:38:42,495 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:38:42,497 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:39:00,499 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:39:00,500 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:39:00,502 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:39:18,181 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:39:18,181 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:39:18,184 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:39:47,575 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:39:47,576 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:39:47,578 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:40:03,453 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:40:03,455 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:40:03,457 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:40:14,858 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:40:14,859 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:40:14,861 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:40:24,792 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:40:24,793 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:40:24,795 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:40:30,683 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:40:30,684 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:40:30,686 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:44:40,171 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:44:40,172 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:44:40,175 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:45:30,528 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:45:30,530 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:45:30,532 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:46:19,695 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:46:19,701 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:46:19,703 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:46:30,049 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:46:30,053 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:46:30,055 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:47:12,509 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:47:12,528 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:47:12,531 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:48:04,586 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:48:04,596 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:48:04,601 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:48:08,615 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:48:08,616 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:48:08,618 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:48:16,582 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:48:16,583 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 16:48:16,584 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:48:53,790 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:48:53,803 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:48:53,805 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:50:21,389 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:50:21,394 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:50:21,397 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:50:40,160 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:50:40,177 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:50:40,180 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 16:51:53,140 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:51:53,146 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 16:51:53,148 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-10-23 17:04:36,558 [Worker-47: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.jstlintro:JSTLIntro:0.0.1-SNAPSHOT @ C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\pom.xml.
+2024-10-23 17:04:37,107 [Worker-47: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JSTLIntro/src/main/java
+2024-10-23 17:04:37,108 [Worker-47: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JSTLIntro/src/main/resources
+2024-10-23 17:04:37,117 [Worker-47: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JSTLIntro/src/main/resources
+2024-10-23 17:04:37,123 [Worker-47: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JSTLIntro/src/test/java
+2024-10-23 17:04:37,124 [Worker-47: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JSTLIntro/src/test/resources
+2024-10-23 17:04:37,567 [Worker-47: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2024-10-23 17:04:37,568 [Worker-47: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-23 17:04:37,919 [Worker-47: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.jstlintro:JSTLIntro:0.0.1-SNAPSHOT @ C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\pom.xml.
+2024-10-23 17:04:38,270 [Worker-47: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JSTLIntro/src/main/java
+2024-10-23 17:04:38,271 [Worker-47: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JSTLIntro/src/main/resources
+2024-10-23 17:04:38,271 [Worker-47: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JSTLIntro/src/main/resources
+2024-10-23 17:04:38,272 [Worker-47: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JSTLIntro/src/test/java
+2024-10-23 17:04:38,272 [Worker-47: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JSTLIntro/src/test/resources
+2024-10-23 17:04:38,560 [Worker-47: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for JSTLIntro
+2024-10-23 17:04:38,574 [Worker-47: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-10-23 17:04:38,995 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 17:04:39,009 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:04:39,014 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:04:39,014 [Worker-54: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSTLIntro
+2024-10-23 17:04:39,014 [Worker-54: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSTLIntro
+2024-10-23 17:05:17,606 [Worker-55: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.jstlintro:JSTLIntro:0.0.1-SNAPSHOT @ C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\pom.xml.
+2024-10-23 17:05:17,960 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:05:17,962 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:05:17,965 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:05:17,966 [Worker-55: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSTLIntro
+2024-10-23 17:05:17,966 [Worker-55: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSTLIntro
+2024-10-23 17:05:19,116 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 17:05:19,127 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:05:19,129 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:05:37,837 [Worker-51: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.jstlintro:JSTLIntro:0.0.1-SNAPSHOT @ C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\pom.xml.
+2024-10-23 17:05:38,254 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:05:38,255 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:05:38,258 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:05:38,258 [Worker-51: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSTLIntro
+2024-10-23 17:05:38,258 [Worker-51: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSTLIntro
+2024-10-23 17:05:39,348 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 17:05:39,357 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:05:39,359 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:06:07,604 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 17:06:07,609 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:06:07,612 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:06:35,650 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:06:35,650 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:06:35,652 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:06:51,722 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:06:51,723 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:06:51,726 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:07:28,996 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:07:28,997 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:07:28,999 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:08:07,080 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:08:07,081 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:08:07,083 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:08:25,496 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:08:25,497 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:08:25,502 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:09:32,752 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 17:09:32,756 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:09:32,758 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:10:03,421 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 17:10:03,424 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:10:03,426 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:11:22,770 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:11:22,771 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:11:22,774 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:12:23,927 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:12:23,928 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:12:23,930 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:13:27,912 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:13:27,913 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:13:27,915 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:16:32,368 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 17:16:32,376 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:16:32,380 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:16:59,391 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:16:59,391 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:16:59,393 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:17:20,612 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:17:20,613 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:17:20,615 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:17:22,639 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:17:22,640 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:17:22,642 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:19:47,838 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 17:19:47,843 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:19:47,845 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:20:20,319 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:20:20,320 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:20:20,322 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:20:47,834 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:20:47,835 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:20:47,837 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:20:49,606 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:20:49,606 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:20:49,608 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:23:03,203 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 17:23:03,208 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:23:03,211 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:25:59,805 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:25:59,806 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:25:59,809 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:26:29,247 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:26:29,248 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:26:29,251 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:26:36,010 [Worker-62: Launching JSTLIntro - JstlIntroApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 17:26:36,015 [Worker-62: Launching JSTLIntro - JstlIntroApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:26:36,018 [Worker-62: Launching JSTLIntro - JstlIntroApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:27:27,288 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:27:27,289 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:27:27,292 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:31:35,482 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:31:35,482 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:31:35,485 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:33:06,916 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:33:06,917 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:33:06,920 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:37:11,729 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:37:11,729 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:37:11,731 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:37:23,389 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:37:23,390 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:37:23,393 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:37:29,189 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:37:29,189 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:37:29,192 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:37:39,026 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:37:39,027 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:37:39,031 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:38:09,463 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:38:09,464 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:38:09,466 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:40:10,014 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 17:40:10,020 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:40:10,024 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:41:31,580 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:41:31,580 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:41:31,583 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:41:39,855 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 17:41:39,859 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:41:39,861 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:42:02,931 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 17:42:02,941 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:42:02,947 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:42:30,515 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:42:30,515 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:42:30,518 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:42:32,546 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:42:32,547 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:42:32,551 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:42:39,676 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:42:39,677 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:42:39,678 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:42:47,283 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:42:47,284 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:42:47,287 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:44:53,106 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:44:53,107 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:44:53,109 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:45:10,942 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:45:10,943 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:45:10,944 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:45:15,349 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:45:15,350 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:45:15,352 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:45:37,950 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:45:37,951 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:45:37,953 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:49:10,251 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:49:10,252 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:49:10,254 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:50:32,110 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 17:50:32,113 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:50:32,115 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:51:11,290 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 17:51:11,295 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:51:11,297 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:51:35,264 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 17:51:35,268 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:51:35,270 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:53:29,009 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:53:29,010 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:53:29,012 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:54:09,632 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:54:09,632 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:54:09,634 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:54:14,103 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 17:54:14,106 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:54:14,108 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-10-23 17:57:39,583 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-23 17:57:39,589 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-23 17:57:39,593 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
