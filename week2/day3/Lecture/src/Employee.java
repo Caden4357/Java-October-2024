@@ -18,8 +18,13 @@ public class Employee extends User implements EmployeeManagement{
 
 	@Override
 	public boolean assignPin(int pin) {
+		System.out.println(pin);
 //		check if the pin is exactly 4 digits
-		if(pin > 999 & pin < 10000) {
+		String stringNum = String.valueOf(pin);
+		System.out.println(stringNum);
+		int numDigits = String.valueOf(pin).length();
+		System.out.println("NUM OF DIGITS: " + numDigits);
+		if(numDigits == 4 ) {
 			this.setPin(pin);
 			return true;
 		}else {
