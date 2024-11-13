@@ -1,6 +1,7 @@
 package com.codingdojo.tvshows.services;
 
 import java.util.List;
+import java.util.Optional;
 
 import org.springframework.stereotype.Service;
 
@@ -23,6 +24,20 @@ public class TvShowService {
     public TvShow createTvShow(TvShow t) {
         return tRepo.save(t);
     }
+    public TvShow findShow(Long id) {
+        Optional<TvShow> optionalShow = tRepo.findById(id);
+        if(optionalShow.isPresent()) {
+            return optionalShow.get();
+        } else {
+            return null;
+        }
+    }
+    public void deleteShow(Long id) {
+    	tRepo.deleteById(id);
+    }
     
-//    More to come later 
+    public TvShow updateShow(TvShow show) {
+    	return tRepo.save(show);
+    }
+    
 }

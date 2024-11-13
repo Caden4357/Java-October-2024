@@ -9,6 +9,8 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.PrePersist;
+import jakarta.persistence.PreUpdate;
 import jakarta.persistence.Table;
 import jakarta.validation.constraints.Max;
 import jakarta.validation.constraints.Min;
@@ -25,7 +27,7 @@ public class TvShow {
 	private Long id;
 	
 	@NotBlank
-	@Size(min = 2, max = 45)
+	@Size(min = 2, max = 45, message = "Thats not right")
 	private String name;
 	
 	@NotBlank
@@ -46,8 +48,16 @@ public class TvShow {
     @DateTimeFormat(pattern="yyyy-MM-dd")
     private Date updatedAt;
     
-    
-//    come back to this when using modelAttribute 
+    // other getters and setters removed for brevity
+    @PrePersist
+    protected void onCreate(){
+        this.createdAt = new Date();
+    }
+    @PreUpdate
+    protected void onUpdate(){
+        this.updatedAt = new Date();
+    }
+//  modelAttribute directly calls the empty constructor whenever used 
 	public TvShow() {
 	}
 

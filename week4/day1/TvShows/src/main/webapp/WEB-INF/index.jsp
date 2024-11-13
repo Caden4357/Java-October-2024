@@ -17,19 +17,52 @@
 <body>
 	<div class=container>
 		<h1>TvDb</h1>
+		<form:form action="/shows" method="post" modelAttribute="show">
+			<p>
+				<form:label path="name">Name:</form:label>
+				<form:errors path="name" />
+				<form:input type="text" path="name" />
+			</p>
+			<p>
+				<form:label path="network">Network</form:label>
+				<form:errors path="network" />
+				<form:input path="network" />
+			</p>
+			<p>
+				<form:label path="numOfSeasons">Number Of Seasons</form:label>
+				<form:errors path="numOfSeasons" />
+				<form:input type="number" path="numOfSeasons" />
+			</p>
+			<p>
+				<form:label path="stillInProduction">Still In Production</form:label>
+				<form:errors path="stillInProduction" />
+				<form:checkbox path="stillInProduction" />
+			</p>
+			<input type="submit" value="Submit" />
+		</form:form>
 		<div class="d-flex justify-content-between">
-			<c:forEach var="show" items="${showsFromBackend}">
-				<div>
-					<p>
-						Name:
-						<c:out value="${show.name}" />
-					</p>
-					<p>
-						Network:
-						<c:out value="${show.network}" />
-					</p>
-				</div>
-			</c:forEach>
+			<table class="table table-striped table-dark">
+				<tr>
+					<th>Name</th>
+					<th>Network</th>
+					<th>Number Of Seasons</th>
+					<th>Actions</th>
+				</tr>
+				<c:forEach var="show" items="${showsFromBackend}">
+					<tr>
+						<td><c:out value="${show.name }" /></td>
+						<td><c:out value="${show.network }" /></td>
+						<td><c:out value="${show.numOfSeasons }" /></td>
+						<td><a class="btn btn-primary" href="/edit/${show.id}/show">Edit</a>
+							<form action="/delete/${show.id}/show" method="post">
+								<input type="hidden" name="_method" value="delete"> 
+								<input class="btn btn-danger" type="submit" value="Delete">
+							</form>
+							 <a class="btn btn-success" href="/view/${show.id}/show">View</a>
+						</td>
+					</tr>
+				</c:forEach>
+			</table>
 		</div>
 	</div>
 </body>
