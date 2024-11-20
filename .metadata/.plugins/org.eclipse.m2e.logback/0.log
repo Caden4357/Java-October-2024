@@ -2369,3 +2369,174 @@
 2024-11-13 18:00:03,030 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-11-13 18:00:03,031 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-11-13 18:00:03,034 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week6\day2\MockExam\src\test\resources
+2024-11-19 16:53:27,530 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-19 16:54:44,938 [Worker-6: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-11-19 16:54:46,739 [Worker-6: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.hellospring:HelloSpring:0.0.1-SNAPSHOT @ C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week3\day1\Lecture\HelloSpring\pom.xml.
+2024-11-19 16:54:48,510 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloSpring/src/main/java
+2024-11-19 16:54:48,512 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelloSpring/src/main/resources
+2024-11-19 16:54:48,518 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelloSpring/src/main/resources
+2024-11-19 16:54:48,529 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloSpring/src/test/java
+2024-11-19 16:54:48,530 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelloSpring/src/test/resources
+2024-11-19 16:54:50,097 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.bandsandmusicians:BandsAndMusicians:0.0.1-SNAPSHOT @ C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week6\day1\BandsAndMusicians\pom.xml.
+2024-11-19 16:54:51,256 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-19 16:54:51,277 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 16:54:51,281 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week6\day1\BandsAndMusicians\src\test\resources
+2024-11-19 16:54:52,400 [Worker-6: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 3.00 sec, update config takes 4.00 sec 
+2024-11-19 16:54:52,405 [Worker-6: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-11-19 16:54:54,477 [Worker-6: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.tvshows:TvShows:0.0.1-SNAPSHOT @ C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week4\day1\TvShows\pom.xml.
+2024-11-19 16:54:54,839 [Worker-6: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.loginreg:loginreg:0.0.1-SNAPSHOT @ C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week5\day2\loginreg\pom.xml.
+2024-11-19 16:54:54,932 [Worker-6: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.ninjagold:NinjaGold:0.0.1-SNAPSHOT @ C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week3\day2\OH\NinjaGold\pom.xml.
+2024-11-19 16:54:55,048 [Worker-6: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.nba:nba:0.0.1-SNAPSHOT @ C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week5\day1\nba\pom.xml.
+2024-11-19 16:54:55,137 [Worker-6: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.hellospring:HelloSpring:0.0.1-SNAPSHOT @ C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week3\day1\Lecture\HelloSpring\pom.xml.
+2024-11-19 16:54:55,217 [Worker-6: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.mockexam:MockExam:0.0.1-SNAPSHOT @ C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week6\day2\MockExam\pom.xml.
+2024-11-19 16:54:55,310 [Worker-6: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.bandsandmusicians:BandsAndMusicians:0.0.1-SNAPSHOT @ C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week6\day1\BandsAndMusicians\pom.xml.
+2024-11-19 16:54:55,419 [Worker-6: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.jstlintro:JSTLIntro:0.0.1-SNAPSHOT @ C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week3\day2\Lecture\JSTLIntro\pom.xml.
+2024-11-19 16:54:56,983 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TvShows/src/main/java
+2024-11-19 16:54:56,983 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TvShows/src/main/resources
+2024-11-19 16:54:56,988 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TvShows/src/main/resources
+2024-11-19 16:54:56,994 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TvShows/src/test/java
+2024-11-19 16:54:56,994 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TvShows/src/test/resources
+2024-11-19 16:54:57,820 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-19 16:54:57,850 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 16:54:57,855 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week3\day1\Lecture\HelloSpring\src\test\resources
+2024-11-19 16:54:58,539 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loginreg/src/main/java
+2024-11-19 16:54:58,540 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /loginreg/src/main/resources
+2024-11-19 16:54:58,544 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /loginreg/src/main/resources
+2024-11-19 16:54:58,550 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loginreg/src/test/java
+2024-11-19 16:54:58,551 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /loginreg/src/test/resources
+2024-11-19 16:54:59,238 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-19 16:54:59,266 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 16:54:59,273 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-11-19 16:54:59,721 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NinjaGold/src/main/java
+2024-11-19 16:54:59,722 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /NinjaGold/src/main/resources
+2024-11-19 16:54:59,724 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /NinjaGold/src/main/resources
+2024-11-19 16:54:59,727 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NinjaGold/src/test/java
+2024-11-19 16:54:59,728 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /NinjaGold/src/test/resources
+2024-11-19 16:55:00,320 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /nba/src/main/java
+2024-11-19 16:55:00,323 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /nba/src/main/resources
+2024-11-19 16:55:00,331 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /nba/src/main/resources
+2024-11-19 16:55:00,335 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /nba/src/test/java
+2024-11-19 16:55:00,337 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /nba/src/test/resources
+2024-11-19 16:55:01,256 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloSpring/src/main/java
+2024-11-19 16:55:01,257 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelloSpring/src/main/resources
+2024-11-19 16:55:01,260 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelloSpring/src/main/resources
+2024-11-19 16:55:01,266 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloSpring/src/test/java
+2024-11-19 16:55:01,268 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelloSpring/src/test/resources
+2024-11-19 16:55:01,895 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MockExam/src/main/java
+2024-11-19 16:55:01,896 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MockExam/src/main/resources
+2024-11-19 16:55:01,926 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MockExam/src/main/resources
+2024-11-19 16:55:01,946 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MockExam/src/test/java
+2024-11-19 16:55:01,947 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MockExam/src/test/resources
+2024-11-19 16:55:02,765 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BandsAndMusicians/src/main/java
+2024-11-19 16:55:02,766 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BandsAndMusicians/src/main/resources
+2024-11-19 16:55:02,770 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BandsAndMusicians/src/main/resources
+2024-11-19 16:55:02,775 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BandsAndMusicians/src/test/java
+2024-11-19 16:55:02,776 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BandsAndMusicians/src/test/resources
+2024-11-19 16:55:03,661 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JSTLIntro/src/main/java
+2024-11-19 16:55:03,662 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JSTLIntro/src/main/resources
+2024-11-19 16:55:03,667 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JSTLIntro/src/main/resources
+2024-11-19 16:55:03,673 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JSTLIntro/src/test/java
+2024-11-19 16:55:03,674 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JSTLIntro/src/test/resources
+2024-11-19 16:55:04,277 [Worker-6: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 8 poms: local refresh takes 0.00 sec, refresh facades takes 4.00 sec, update config takes 7.00 sec 
+2024-11-19 16:55:04,754 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-19 16:55:04,765 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 16:55:04,768 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week6\day1\BandsAndMusicians\src\test\resources
+2024-11-19 16:55:04,769 [Worker-14: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BandsAndMusicians
+2024-11-19 16:55:04,770 [Worker-14: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BandsAndMusicians
+2024-11-19 16:55:04,825 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-19 16:55:04,854 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 16:55:04,856 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week3\day1\Lecture\HelloSpring\src\test\resources
+2024-11-19 16:55:04,857 [Worker-14: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of HelloSpring
+2024-11-19 16:55:04,857 [Worker-14: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for HelloSpring
+2024-11-19 16:55:04,937 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-19 16:55:04,939 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 16:55:04,941 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-11-19 16:55:04,941 [Worker-14: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSTLIntro
+2024-11-19 16:55:04,941 [Worker-14: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSTLIntro
+2024-11-19 16:55:05,116 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-19 16:55:05,147 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 16:55:05,152 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week6\day2\MockExam\src\test\resources
+2024-11-19 16:55:05,367 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 16:55:05,368 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 16:55:05,373 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week3\day2\Lecture\JSTLIntro\src\test\resources
+2024-11-19 16:55:05,588 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-19 16:55:05,608 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-19 16:55:05,705 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week3\day2\OH\NinjaGold\src\test\resources
+2024-11-19 16:55:06,029 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-19 16:55:06,057 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 16:55:06,062 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week4\day1\TvShows\src\test\resources
+2024-11-19 16:55:06,787 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-19 16:55:06,817 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 16:55:06,821 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week5\day2\loginreg\src\test\resources
+2024-11-19 16:55:07,058 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-19 16:55:07,076 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 16:55:07,080 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week5\day1\nba\src\test\resources
+2024-11-19 17:12:37,224 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:12:37,225 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:12:37,228 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week4\day1\TvShows\src\test\resources
+2024-11-19 17:12:52,330 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:12:52,331 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:12:52,333 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week4\day1\TvShows\src\test\resources
+2024-11-19 17:13:09,958 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:13:09,960 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:13:09,961 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week4\day1\TvShows\src\test\resources
+2024-11-19 17:23:24,683 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-19 17:23:24,690 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:23:24,693 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week4\day1\TvShows\src\test\resources
+2024-11-19 17:29:21,985 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-19 17:29:21,990 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:29:21,993 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week4\day1\TvShows\src\test\resources
+2024-11-19 17:30:25,350 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-19 17:30:25,357 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:30:25,360 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week4\day1\TvShows\src\test\resources
+2024-11-19 17:31:52,751 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-19 17:31:52,756 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:31:52,759 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week4\day1\TvShows\src\test\resources
+2024-11-19 17:32:30,084 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:32:30,085 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:32:30,086 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week4\day1\TvShows\src\test\resources
+2024-11-19 17:33:35,790 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-19 17:33:35,795 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:33:35,797 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week4\day1\TvShows\src\test\resources
+2024-11-19 17:34:51,034 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:34:51,034 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:34:51,036 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week4\day1\TvShows\src\test\resources
+2024-11-19 17:35:10,876 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-19 17:35:10,880 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:35:10,882 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week4\day1\TvShows\src\test\resources
+2024-11-19 17:35:14,312 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-19 17:35:14,317 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:35:14,319 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week4\day1\TvShows\src\test\resources
+2024-11-19 17:36:27,753 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-19 17:36:27,756 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:36:27,759 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week4\day1\TvShows\src\test\resources
+2024-11-19 17:36:49,107 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:36:49,107 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:36:49,109 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week4\day1\TvShows\src\test\resources
+2024-11-19 17:39:40,641 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-19 17:39:40,656 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:39:40,660 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week4\day1\TvShows\src\test\resources
+2024-11-19 17:40:12,761 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:40:12,761 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:40:12,763 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week4\day1\TvShows\src\test\resources
+2024-11-19 17:43:58,363 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:43:58,364 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:43:58,366 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week4\day1\TvShows\src\test\resources
+2024-11-19 17:45:06,425 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:45:06,425 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:45:06,428 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week4\day1\TvShows\src\test\resources
+2024-11-19 17:45:42,173 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:45:42,173 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:45:42,175 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week4\day1\TvShows\src\test\resources
+2024-11-19 17:46:07,343 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:46:07,343 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:46:07,345 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week4\day1\TvShows\src\test\resources
+2024-11-19 17:47:29,373 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:47:29,374 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:47:29,376 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week4\day1\TvShows\src\test\resources
+2024-11-19 17:47:32,067 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:47:32,067 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:47:32,068 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week4\day1\TvShows\src\test\resources
+2024-11-19 17:48:13,779 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-19 17:48:13,787 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-19 17:48:13,789 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week4\day1\TvShows\src\test\resources

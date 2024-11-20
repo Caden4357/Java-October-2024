@@ -39,5 +39,8 @@ public class TvShowService {
     public TvShow updateShow(TvShow show) {
     	return tRepo.save(show);
     }
-    
+    public List<TvShow> searchedShows(String query){
+    	System.out.println(tRepo.findByNameContaining(query));
+    	return tRepo.findByNameContaining(query);
+    }
 }

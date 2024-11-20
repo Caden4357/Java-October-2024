@@ -11,7 +11,9 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 import com.codingdojo.tvshows.models.TvShow;
 import com.codingdojo.tvshows.services.TvShowService;
@@ -69,5 +71,18 @@ public class HomeController {
 			shows.updateShow(show);
 			return "redirect:/";
 		}
+	}
+	
+	@PostMapping("/search/title")
+	public String searchShows(@RequestParam("searchQuery") String searchQ, RedirectAttributes redirectAttributes) {
+		System.out.println("SEARCH : " + searchQ);
+		redirectAttributes.addFlashAttribute("searchedShows", shows.searchedShows(searchQ));
+		System.out.println(shows.searchedShows(searchQ));
+		return "redirect:/";
+		
+	}
+	@GetMapping("/reset/shows")
+	public String resetShows() {
+		return "redirect:/";
 	}
 }

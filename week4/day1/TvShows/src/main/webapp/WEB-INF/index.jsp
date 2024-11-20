@@ -17,6 +17,11 @@
 <body>
 	<div class=container>
 		<h1>TvDb</h1>
+		<form action="/search/title" method="post" class="mb-5">
+			<input value="Search..." name="searchQuery" />
+			<button>Search</button>
+		</form>
+		<a href="/reset/shows">Reset</a>
 		<form:form action="/shows" method="post" modelAttribute="show">
 			<p>
 				<form:label path="name">Name:</form:label>
@@ -41,28 +46,52 @@
 			<input type="submit" value="Submit" />
 		</form:form>
 		<div class="d-flex justify-content-between">
-			<table class="table table-striped table-dark">
-				<tr>
-					<th>Name</th>
-					<th>Network</th>
-					<th>Number Of Seasons</th>
-					<th>Actions</th>
-				</tr>
-				<c:forEach var="show" items="${showsFromBackend}">
+			<c:if test="${empty searchedShows}">
+				<table class="table table-striped table-dark">
 					<tr>
-						<td><c:out value="${show.name }" /></td>
-						<td><c:out value="${show.network }" /></td>
-						<td><c:out value="${show.numOfSeasons }" /></td>
-						<td><a class="btn btn-primary" href="/edit/${show.id}/show">Edit</a>
-							<form action="/delete/${show.id}/show" method="post">
-								<input type="hidden" name="_method" value="delete"> 
-								<input class="btn btn-danger" type="submit" value="Delete">
-							</form>
-							 <a class="btn btn-success" href="/view/${show.id}/show">View</a>
-						</td>
+						<th>Name</th>
+						<th>Network</th>
+						<th>Number Of Seasons</th>
+						<th>Actions</th>
 					</tr>
-				</c:forEach>
-			</table>
+					<c:forEach var="show" items="${showsFromBackend}">
+						<tr>
+							<td><c:out value="${show.name }" /></td>
+							<td><c:out value="${show.network }" /></td>
+							<td><c:out value="${show.numOfSeasons }" /></td>
+							<td><a class="btn btn-primary" href="/edit/${show.id}/show">Edit</a>
+								<form action="/delete/${show.id}/show" method="post">
+									<input type="hidden" name="_method" value="delete"> <input
+										class="btn btn-danger" type="submit" value="Delete">
+								</form> <a class="btn btn-success" href="/view/${show.id}/show">View</a>
+							</td>
+						</tr>
+					</c:forEach>
+				</table>
+			</c:if>
+			<c:if test="${not empty searchedShows}">
+				<table class="table table-striped table-dark">
+					<tr>
+						<th>Name</th>
+						<th>Network</th>
+						<th>Number Of Seasons</th>
+						<th>Actions</th>
+					</tr>
+					<c:forEach var="show" items="${searchedShows}">
+						<tr>
+							<td><c:out value="${show.name }" /></td>
+							<td><c:out value="${show.network }" /></td>
+							<td><c:out value="${show.numOfSeasons }" /></td>
+							<td><a class="btn btn-primary" href="/edit/${show.id}/show">Edit</a>
+								<form action="/delete/${show.id}/show" method="post">
+									<input type="hidden" name="_method" value="delete"> <input
+										class="btn btn-danger" type="submit" value="Delete">
+								</form> <a class="btn btn-success" href="/view/${show.id}/show">View</a>
+							</td>
+						</tr>
+					</c:forEach>
+				</table>
+			</c:if>
 		</div>
 	</div>
 </body>
