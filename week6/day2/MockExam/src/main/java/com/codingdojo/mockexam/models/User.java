@@ -66,6 +66,9 @@ public class User {
 	@OneToMany(mappedBy = "owner", fetch = FetchType.LAZY, cascade = CascadeType.ALL)
 	private List<Dog> dogs;
 	
+	@OneToMany(mappedBy = "user", fetch = FetchType.LAZY, cascade = CascadeType.ALL)
+	private List<Comment> comments;
+	
 	public User() {
 		super();
 	}
@@ -132,6 +135,14 @@ public class User {
 
 	public void setDogs(List<Dog> dogs) {
 		this.dogs = dogs;
+	}
+
+	public List<Comment> getComments() {
+		return comments;
+	}
+
+	public void setComments(List<Comment> comments) {
+		this.comments = comments;
 	}
 	
 	

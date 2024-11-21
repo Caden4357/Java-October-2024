@@ -24,7 +24,7 @@
 
 
 				<div class="w-25">
-					<a href="#">Home</a> | <a href="/dog/form">Add your dog</a> | <a
+					<a href="/home">Home</a> | <a href="/dog/form">Add your dog</a> | <a
 						href="#">Treats</a> | <a href="/logout">Logout</a>
 				</div>
 
@@ -49,8 +49,8 @@
 							<c:if test="${dog.owner.id == userId}">
 								<a class="btn btn-primary" href="/edit/${dog.id}/dog">Edit</a>
 								<form action="/delete/${dog.id}/dog" method="post">
-									<input type="hidden" name="_method" value="delete"> <input
-										class="btn btn-danger" type="submit" value="Delete">
+									<input type="hidden" name="_method" value="delete"> 
+									<input class="btn btn-danger" type="submit" value="Delete">
 								</form>
 							</c:if> 
 							<a class="btn btn-success" href="/view/${dog.id}/dog">View</a></td>

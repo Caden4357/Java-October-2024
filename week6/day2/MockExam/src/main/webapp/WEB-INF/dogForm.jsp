@@ -13,6 +13,23 @@
 </head>
 <body>
 	<div class="container">
+		<header class="mt-5">
+			<nav class="d-flex justify-content-between">
+				<h2>
+					Hello
+					<c:out value="${user.username}" />
+				</h2>
+
+				<h2>Welcome To Dogs dot com</h2>
+
+
+				<div class="w-25">
+					<a href="/home">Home</a> | <a href="/dog/form">Add your dog</a> | <a
+						href="#">Treats</a> | <a href="/logout">Logout</a>
+				</div>
+
+			</nav>
+		</header>
 		<h2>Add your dog</h2>
 		<form:form action="/create/dog" method="post" modelAttribute="dog">
 			<p>
