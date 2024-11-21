@@ -2755,3 +2755,5 @@
 2024-11-20 17:43:43,378 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-11-20 17:43:43,380 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week6\day2\MockExam\src\test\resources
 2024-11-20 17:46:24,291 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-20 17:46:24,292 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-20 17:46:24,294 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\wilco\OneDrive\Desktop\Java-October-2024\week6\day2\MockExam\src\test\resources
