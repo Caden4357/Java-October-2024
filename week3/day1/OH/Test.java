@@ -11,5 +11,10 @@ public class Test {
         sll.remove();
         // sll.remove();
         sll.display();
+        Node result1 = sll.find(30);
+        System.out.println(result1.value);
+        Node result2 = sll.find(5);
+        System.out.println(result2.value);
+
     }
 }

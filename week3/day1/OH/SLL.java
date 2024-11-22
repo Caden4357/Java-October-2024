@@ -1,6 +1,9 @@
 
 public class SLL {
+
     public Node head;
+
+
 
     public SLL() {
         this.head = null;
@@ -14,7 +17,7 @@ public class SLL {
     public void add(int value) {
         Node newNode = new Node(value);
         if (head == null) {
-            head = newNode;
+            this.head = newNode;
         } else {
             Node runner = head; // think of this as i or idx in a for loop that typically starts at 0 for an array
             while (runner.next != null) {
@@ -53,6 +56,22 @@ public class SLL {
             System.out.println("Runner: " + runner.value);
             System.out.println("Next: " + runner.next.value);
             runner = runner.next;
+        }
+    }
+
+    public Node find(int value){
+        if(head == null){
+            return new Node(0);
+        }else{
+            Node runner = head;
+            while(runner != null){
+                if(runner.value == value){
+                    return runner;
+                }else{
+                    runner = runner.next;
+                }
+            }
+            return new Node(0);
         }
     }
 }

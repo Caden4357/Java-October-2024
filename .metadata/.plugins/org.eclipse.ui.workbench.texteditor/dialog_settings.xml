@@ -6,8 +6,12 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="Dog"/>
+		<item key="selection" value="comment"/>
 		<list key="findhistory">
+			<item value="dog"/>
+			<item value="Dog"/>
+			<item value="dRepo"/>
+			<item value="DogRepository"/>
 			<item value="Show"/>
 			<item value="optionalShow"/>
 			<item value="tRepo"/>
@@ -16,6 +20,10 @@
 			<item value="cindhuri"/>
 		</list>
 		<list key="replacehistory">
+			<item value="comment"/>
+			<item value="Comment"/>
+			<item value="cRepo"/>
+			<item value="CommentRepository"/>
 			<item value="Dog"/>
 			<item value="optionalDog"/>
 			<item value="dRepo"/>
