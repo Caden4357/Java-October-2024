@@ -43,6 +43,10 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\wilco\OneDrive\Desktop\ExamOne"/>
+			<item value="C:\Users\wilco\OneDrive\Desktop\KickballLeague"/>
+			<item value="C:\Users\wilco\OneDrive\Desktop\Dojos_ninjas"/>
+			<item value="C:\Users\wilco\OneDrive\Desktop\BookClub"/>
 			<item value="C:\Users\wilco\OneDrive\Desktop\Java-October-2024"/>
 			<item value="C:\Users\wilco\OneDrive\Desktop\Java-Assignment\Daikichi"/>
 			<item value="C:\Users\wilco\OneDrive\Documents\CodingDojo\Instructor\Instruction\ClassCode\Java-October-2024\week2\day2\OH"/>
